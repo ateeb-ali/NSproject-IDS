@@ -89,10 +89,5 @@ nmap 127.0.0.1
 
 ---
 ## Notice
-Developed for academic and learning purposes
-
-
-
-
-## Project Structure
+Developed for academic and learning purposes only
 
