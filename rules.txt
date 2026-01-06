@@ -1,0 +1,5 @@
+cmd.exe
+powershell
+/bin/bash
+UNION SELECT
+<script>

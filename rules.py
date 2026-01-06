@@ -1,0 +1,4 @@
+# rules.py
+
+MAX_PACKETS_PER_IP = 50
+PORT_SCAN_THRESHOLD = 20
